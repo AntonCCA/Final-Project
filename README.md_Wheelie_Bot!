@@ -1,17 +1,16 @@
 `#` Final-Project
-Leap Motion 
 Wheelie bot!
 
 `#` Summary
 Leap motion controlled, three layer Arduino robot which is operated via 
-hand gestures.
+hand gestures or key pressed commands.
 
 
 Include a discussion of how it will be interactive or responsive to the environment.
-Hand gesture controlled robot, via Leap Motion controller, which moves
+Hand gesture controlled robot via Leap Motion, or keyboard controlled robot, which moves
 when hand is in controller's proximity and can read hand as being far left to move left, or far right 
 to move right, also can move forward by placing hand closer to controller, and backward by moving hand 
-further away.
+further away, or when pressing the arrow keys.
 
 `#` Component Parts
 Robot chasis:the base frame of a motor vehicle or other wheeled conveyance.
