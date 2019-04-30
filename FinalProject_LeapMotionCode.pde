@@ -1,3 +1,5 @@
+// modified from code written by Yelenov Amir
+
 import processing.serial.*;
 import de.voidplus.leapmotion.*;
 LeapMotion leap;
