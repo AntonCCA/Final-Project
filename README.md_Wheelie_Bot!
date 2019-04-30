@@ -19,6 +19,8 @@ Adafruit Motor Shield V2
 Leap Motion controller
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
+Arduino, Processing, Javascript, Leap Motion SDK modified from code written by Yelenov Amir
+https://github.com/roboticsNU/LeapCar/blob/master/leapMotionProcessingCode.pde
 
 
 `#` Timeline
