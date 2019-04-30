@@ -1,4 +1,7 @@
-Arduino code
+``` javascript
+
+`#` Arduino code
+
 #include <Wire.h>
 #include <Adafruit_MotorShield.h>
 
@@ -71,6 +74,6 @@ void loop() {
   }
 }
 
-
+```
 
 
