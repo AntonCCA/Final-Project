@@ -26,9 +26,13 @@ Timeline
 What did you do in each of the past four weeks?
 
 Week 0: Research, sourcing parts and documentation.
+
 Week 1: Gathered parts, building frame, testing Leap Motion
+
 Week 2: Robot assembled, controlled via arduino, communicating with Processing
+
 Week 3: Leap motion reading hand gestures and controlling Arduino robot movements.
+
 Week 4: Present!
 
 Challenges
