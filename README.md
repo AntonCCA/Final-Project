@@ -8,9 +8,10 @@ hand gestures.
 
 
 Include a discussion of how it will be interactive or responsive to the environment.
-Hand gesture controlled robot, via Leap Motion COntroller, which moves
-when hand is in controller proximity and can read hand as being far left to move left, or far right 
-to move right, also can move forward by placing hand closer to controller, and backward by moving hand further.
+Hand gesture controlled robot, via Leap Motion controller, which moves
+when hand is in controller's proximity and can read hand as being far left to move left, or far right 
+to move right, also can move forward by placing hand closer to controller, and backward by moving hand 
+further away.
 
 Component Parts
 Robot chasis:the base frame of a motor vehicle or other wheeled conveyance.
@@ -31,8 +32,8 @@ Week 3: Leap motion reading hand gestures and controlling Arduino robot movement
 Week 4: Present!
 
 Challenges
-A brief discussion of what was hard, challenging, or unexpected about your project.
-Biggest challenge was getting getting the motors to work together to make the robot move,
+A brief discussion of what was challenging, or unexpected about your project.
+Biggest challenge was getting the motors to work together to make the robot move,
 Also understanding Leap motion, and how to manipulate the code to read the gestures allowing 
 the user to control the robot. 
 
@@ -46,3 +47,4 @@ References and links
 https://www.instructables.com/id/KIVI/
 https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino
 https://www.youtube.com/watch?v=lT6eJh28vz8
+https://www.adafruit.com/product/3244?gclid=CjwKCAjwwZrmBRA7EiwA4iMzBCUTmu5Y8mR4ECr7B3C_Ei_up4XliVYtlyX0JXW40gCTjkL7GbVnbxoCJ4IQAvD_BwE
