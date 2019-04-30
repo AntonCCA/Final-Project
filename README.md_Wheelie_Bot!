@@ -2,7 +2,7 @@
 Leap Motion 
 Wheelie bot!
 
-Summary
+# Summary
 Leap motion controlled, three layer Arduino robot which is operated via 
 hand gestures.
 
@@ -13,7 +13,7 @@ when hand is in controller's proximity and can read hand as being far left to mo
 to move right, also can move forward by placing hand closer to controller, and backward by moving hand 
 further away.
 
-Component Parts
+# Component Parts
 Robot chasis:the base frame of a motor vehicle or other wheeled conveyance.
 ArduinoUNO 
 Adafruit Motor Shield V2
@@ -22,7 +22,7 @@ Leap Motion controller
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
 
 
-Timeline
+# Timeline
 What did you do in each of the past four weeks?
 
 Week 0: Research, sourcing parts and documentation.
@@ -35,19 +35,19 @@ Week 3: Leap motion reading hand gestures and controlling Arduino robot movement
 
 Week 4: Present!
 
-Challenges
+# Challenges
 A brief discussion of what was challenging, or unexpected about your project.
 Biggest challenge was getting the motors to work together to make the robot move,
 Also understanding Leap motion, and how to manipulate the code to read the gestures allowing 
 the user to control the robot. 
 
-Completed Work
+# Completed Work
 https://drive.google.com/file/d/1ytxqUlMPklZuVy83cLtT901GkXE7C-Fx/view?usp=sharing
 https://drive.google.com/file/d/1qaMojUyso9MN67D9xjOBaPbf5UIBUoYy/view?usp=sharing
 
 Also upload the code that makes up your project to your repository.
 
-References and links
+# References and links
 https://www.instructables.com/id/KIVI/
 https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino
 https://www.youtube.com/watch?v=lT6eJh28vz8
